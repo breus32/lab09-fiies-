@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int main(){
+int main()
+{
 	
 	FILE* fp;
 	double prices[10000];
